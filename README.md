@@ -2,7 +2,7 @@
 
 ### Basic Authorization and authentication
 
-###***jdbcAuthentication()***
+### ***jdbcAuthentication()***
 
 `1. Security Configuration Based on JDBC Authentication` <br>
 `2. Two end points for USER and ADMIN`<br>
