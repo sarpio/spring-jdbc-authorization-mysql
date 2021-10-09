@@ -1,4 +1,4 @@
-#Spring Boot Authorization and Authentication Demo App
+# Spring Boot Authorization and Authentication Demo App
 
 ### Basic Authorization and authentication
 
