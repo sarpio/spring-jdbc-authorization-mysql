@@ -11,4 +11,4 @@
 `5. MySQL stores encrypted password`
 
 ## Database relation schema
-![Relation schema](img/ERD Authorization.GIF?raw=true "Title")
+![Relation schema](/img/ERD Authorization.GIF?raw=true "Title")
