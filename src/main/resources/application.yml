@@ -1,0 +1,12 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: 'jdbc:mysql://${MYSQL_HOST:localhost}:3306/authorization'
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: secret
+    password: secret
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
