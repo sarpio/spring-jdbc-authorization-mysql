@@ -11,4 +11,4 @@
 `5. MySQL stores encrypted password`
 
 ## Database relation schema
-![Relation schema](/img/ERD Authorization.GIF?raw=true "Title")
+![ERD Authorization](https://user-images.githubusercontent.com/50767718/136655628-a57a1c88-af24-4f62-8300-a0ff40b446c7.GIF)
